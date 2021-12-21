@@ -11,3 +11,27 @@ Automatic Pay Fixation Calculator for the employees of West Bengal State Govt. E
    6. Updated on the basis of the latest Govt. rules and orders (ROPA 2019).
    7. This application is completely free and open source.
 
+# How to Install :
+  # For Windows OS :
+   1. Download the zip archive file for Windows by <a href="https://github.com/loku-sama/pension-calculator/releases/download/1.2.0/Basic_Retirement_Benefits_Calculator_ver_1.2.0.zip"> CLICKING HERE (Latest)</a> and unzip it. 
+   2. Run the Automatic_Pay_Fixation_Calculator.exe (windows executable) file to open the application, no need to install the app.
+
+# Important :
+If you are a regular user, just download the .zip file, extract it and run .exe file to use the application. No need to install it.
+If you want to check the source code and want to build something better, please download the source code files and run the 'main.py' along with its dependencies.
+For any suggestions or Bug reporting, please contact me at loku-sama@outlook.com or happysourav96@gmail.com
+
+# How to Run the Source Code :
+1. First download all the source code files (including the requirements.txt file) and install python3 if you dont have it.
+2. Run the following command in your terminal to install all the required dependencies at once.
+  ```python
+  pip install requirements.txt
+  ```
+3. Now go to the parent folder and open terminal there. You must put the 'assets' and 'reports' folder in the parant directory.
+4. Now run the following command -
+```python
+python main.py
+```
+
+# Contribuion :
+If you're new to contributing to Open Source on Github, <a href="https://guides.github.com/activities/contributing-to-open-source/">this guide</a> can help you get started.
