@@ -6,7 +6,8 @@ Automatic Pay Fixation Calculator for the employees of West Bengal State Govt. E
    1. This is an Offline application, so no need of an Internet connection.
    2. Calculate your new basic pay after any change in pay scale or promotion etc.
    3. Calculate Revised basic pay from ROPA 2009 to be fixed in ROPA 2019.
-   4. Fetches exact data from pay matrix ROPA 2019 and displays correct basic after in increments automatically.
-   5. Updated on the basis of the latest Govt. rules and orders (ROPA 2019).
-   6. This application is completely free and open source.
+   4. Fetches exact data from pay matrix ROPA 2019 and displays correct basic after any increment automatically.
+   5. Tested with orders generated from live server.
+   6. Updated on the basis of the latest Govt. rules and orders (ROPA 2019).
+   7. This application is completely free and open source.
 
