@@ -13,7 +13,7 @@ Automatic Pay Fixation Calculator for the employees of West Bengal State Govt. E
 
 # How to Install :
   # For Windows OS :
-   1. Download the zip archive file for Windows by <a href="https://github.com/loku-sama/pension-calculator/releases/download/1.2.0/Basic_Retirement_Benefits_Calculator_ver_1.2.0.zip"> CLICKING HERE (Latest)</a> and unzip it. 
+   1. Download the zip archive file for Windows by <a href="https://github.com/loku-sama/pay-fixation-wb/releases/download/1.0.1/Automatic_Pay_Fixation_Calculator_ver_1.0.1.zip"> CLICKING HERE (Latest)</a> and unzip it. 
    2. Run the Automatic_Pay_Fixation_Calculator.exe (windows executable) file to open the application, no need to install the app.
 
 # Important :
