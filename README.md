@@ -9,7 +9,8 @@ Automatic Pay Fixation Calculator for the employees of West Bengal State Govt. E
    4. Fetches exact data from pay matrix ROPA 2019 and displays correct basic after any increment automatically.
    5. Tested with orders generated from live server.
    6. Updated on the basis of the latest Govt. rules and orders (ROPA 2019).
-   7. This application is completely free and open source.
+   7. Great tool for verifying your calculations before entering in the live server.
+   8. This application is completely free and open source.
 
 # How to Install :
   # For Windows OS :
@@ -19,7 +20,8 @@ Automatic Pay Fixation Calculator for the employees of West Bengal State Govt. E
 # Important :
 If you are a regular user, just download the .zip file, extract it and run .exe file to use the application. No need to install it.
 If you want to check the source code and want to build something better, please download the source code files and run the 'main.py' along with its dependencies.
-For any suggestions or Bug reporting, please contact me at loku-sama@outlook.com or happysourav96@gmail.com
+For any suggestions or Bug reporting, please contact me at loku-sama@outlook.com or happysourav96@gmail.com              
+** Do not delete the excel pay matrix file from assets folder in the main application directory.
 
 # How to Run the Source Code :
 1. First download all the source code files (including the requirements.txt file) and install python3 if you dont have it.
