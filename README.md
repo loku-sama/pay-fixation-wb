@@ -24,6 +24,9 @@ If you want to check the source code and want to build something better, please 
 For any suggestions or Bug reporting, please contact me at loku-sama@outlook.com or happysourav96@gmail.com              
 ** Do not delete the excel pay matrix file from assets folder in the main application directory.
 
+# Screenshots :
+<img src="https://github.com/loku-sama/pay-fixation-wb/raw/main/assets/SS_ROPA2009.PNG" alt="home" height="400px" width="400px">      <img src="https://github.com/loku-sama/pay-fixation-wb/raw/main/assets/SS_ROPA2019.PNG" alt="home_1" height="400px" width="400px">
+
 # How to Run the Source Code :
 1. First download all the source code files (including the requirements.txt file) and install python3 if you dont have it.
 2. Run the following command in your terminal to install all the required dependencies at once.
