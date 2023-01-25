@@ -146,7 +146,7 @@ def getPayRowNo(payLvl, curBasic):
 
 
 def getNormalInc(currRowNo, payLevel, noOfInc):
-    """ Function for Calculating Increments
+    """ Function for Calculating Increments under ROPA 2019
 
     :param currRowNo: Row no. from the excel sheet of the Current Basic Pay.
     :type currRowNo: int
