@@ -1,6 +1,6 @@
 # Automatic Pay Fixation Calculator
 Automatic Pay Fixation Calculator for the employees of West Bengal State Govt. Employees under ROPA 2009 and ROPA 2019 is a free and open source application for calculating your pay after fixation for different reasons. This is a simple and easy to use application for everyone, just input required data and get the results in no time.
-#### You can visit www.wbxpress.com for usefull tools and Govt. notifications and orders.
+#### You can visit www.wbxpress.com for more usefull tools, Govt. notifications and orders.
 
 # Features :
 
