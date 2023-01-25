@@ -1,5 +1,7 @@
 """
     This module covers the important functions for the application.
+    Author : Sourav
+    Language : Python 3.9
 """
 # Necessary Imports
 import pandas as pd
