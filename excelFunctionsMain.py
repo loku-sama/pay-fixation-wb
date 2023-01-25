@@ -150,7 +150,7 @@ def getNormalInc(currRowNo, payLevel, noOfInc):
 
     :param currRowNo: Row no. from the excel sheet of the Current Basic Pay.
     :type currRowNo: int
-    :param payLevel: Pay Level entered ny the User
+    :param payLevel: Pay Level entered by the User
     :type payLevel: str or int
     :param noOfInc: No. of Increments.
     :type noOfInc: int
